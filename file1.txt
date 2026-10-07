@@ -18,3 +18,4 @@ git branch
 git pull nameoftheremoterepo branch                 (branch - main/master) →  name of the remote repo-origin
 git branch -D name of the branch u want to delete
 git add file name → after u create a new file
+git commit -m “any msg”  
