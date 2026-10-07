@@ -1,0 +1,21 @@
+welcome to DevOpes
+git init
+git commit
+git add .
+git config --global user.name ""
+git config --global user.email ""
+git config --global --list
+git config --global --unset user.name"the different name"
+to exit git log command -ctrl z
+git remote add origin https://github.com/blank-6508/ecedemo.git --> connect
+git add .
+git commit
+git push origin master / push origin main
+git branch -M main  → to change the name of the branch
+git switch -c feature1 --> new branch is created and branch points to it
+git switch main --> just to switch the branch
+git branch
+git pull nameoftheremoterepo branch                 (branch - main/master) →  name of the remote repo-origin
+git branch -D name of the branch u want to delete
+git add file name → after u create a new file
+git commit -m “any msg”  
