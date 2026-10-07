@@ -2,9 +2,9 @@ welcome to DevOpes
 git init
 git commit
 git add .
-git config --global user.name ""
-git config --global user.email ""
-git config --global --list
+git config --global "user.name ""
+git config --global "user.email ""
+gg
 git config --global --unset user.name"the different name"
 to exit git log command -ctrl z
 git remote add origin https://github.com/blank-6508/ecedemo.git --> connect
@@ -18,4 +18,3 @@ git branch
 git pull nameoftheremoterepo branch                 (branch - main/master) →  name of the remote repo-origin
 git branch -D name of the branch u want to delete
 git add file name → after u create a new file
-git commit -m “any msg”  
